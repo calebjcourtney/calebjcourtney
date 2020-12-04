@@ -1,5 +1,4 @@
 ## Hey there! 👋 I'm Caleb
-***
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -8,8 +7,9 @@
 - 💼 &nbsp; Working as a Solutions Engineer.
 - 🌱 &nbsp; Learning more about Machine Learning, Algorithms, and Economics.
 
-### Personality Traits
 ***
+### Personality Traits
+
 1. Deliberative
 2. Strategic
 3. Intellection
@@ -23,8 +23,9 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjcourtney&theme=buefy&layout=compact" />
 </a>
 
+***
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
