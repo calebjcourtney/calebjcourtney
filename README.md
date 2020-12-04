@@ -18,8 +18,8 @@
 
 
 <a href="https://github.com/calebjcourtney">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=calebjcourtney&theme=buefy&show_icons=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjcourtney&theme=buefy&layout=compact" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=calebjcourtney&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebjcourtney&theme=buefy&layout=compact" />
 </a>
 
 
