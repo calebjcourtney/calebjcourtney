@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Exploring data as a service.
-- 🎓 &nbsp; Studying Data Science at Thomas Edison State University.
-- 💼 &nbsp; Working as a Solutions Engineer.
+- 🤔 &nbsp; Exploring information as a service.
+- 🎓 &nbsp; Studied Data Science at Thomas Edison State University.
+- 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Machine Learning, Algorithms, and Economics.
 
 ***
