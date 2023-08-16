@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Machine Learning, Algorithms, and Economics.
 
 ***
-### Personality Traits
+### Cliffton Strengths
 
 1. Deliberative
 2. Strategic
